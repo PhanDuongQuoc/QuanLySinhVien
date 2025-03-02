@@ -16,5 +16,7 @@ namespace quanlysinhvien_project
         {
             InitializeComponent();
         }
+
+     
     }
 }
